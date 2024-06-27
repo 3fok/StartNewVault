@@ -1,4 +1,5 @@
 {
   "trashOption": "local",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }
