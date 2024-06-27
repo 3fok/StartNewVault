@@ -2,5 +2,5 @@
   "trashOption": "local",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "./assets/Untitled"
+  "attachmentFolderPath": "/"
 }
