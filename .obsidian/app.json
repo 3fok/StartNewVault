@@ -1,5 +1,6 @@
 {
   "trashOption": "local",
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./assets/Untitled"
 }
