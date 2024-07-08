@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Custom plugin.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Custom plugin.md",
                 "mode": "preview",
                 "source": true
               }
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 416.5124969482422
   },
   "right": {
     "id": "e818dbdd0a4b65a8",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Custom plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Custom plugin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Custom plugin.md"
               }
             }
           },
@@ -171,12 +171,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 528.5
+    "width": 528.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,20 +186,35 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "c5cd4ccb1ebb94ae",
+  "active": "435e7624f3d73054",
   "lastOpenFiles": [
-    "assets/Untitled/Untitled_image_1.png",
-    "assets/Untitled",
-    "assets",
-    "Daily notes",
+    "Create new Obsidian vault.md",
+    "Custom plugin.md",
+    "assets/Notes/Notes_image_1.png",
+    "assets/test123/test123_image_4.png",
     "Untitled.md",
-    "assets/Untitled/Untitled_image_1.png",
-    "assets/Untitled/tmp1720412888874_Untitled_image_1.png",
-    "README.md",
-    "Pasted image 20240627103934.png",
-    "Pasted image 20240627103515.png"
+    "assets/tesstt/test2/test4/test4_image_6.png",
+    "assets/tesstt/test2/test4/test4_image_5.png",
+    "assets/tesstt/test2/test4/test4_image_4.png",
+    "assets/tesstt/test2/test4/test4_image_3.png",
+    "assets/tesstt/test2/test4/test4_image_1.png",
+    "assets/tesstt/test2/test4/test4_image_2.png",
+    "assets/tesstt/test2/Test5/Test5_image_1.png",
+    "assets/tesstt/test2/test4",
+    "assets/tesstt/test2/Test5",
+    "assets/test123/test123_image_3.png",
+    "assets/tesstt/test2",
+    "assets/test123",
+    "assets/tesstt",
+    "assets/Create new Obsidian vault",
+    "assets/Notes",
+    "assets",
+    "assets/Untitled",
+    "Daily notes",
+    "README.md"
   ]
 }

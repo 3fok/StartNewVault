@@ -4,5 +4,6 @@
   "slash-commander",
   "obsidian-attachment-name-formatting",
   "obsidian-custom-attachment-location",
-  "obsidian-banners"
+  "obsidian-banners",
+  "file-cleaner-redux"
 ]
