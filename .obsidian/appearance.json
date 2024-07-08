@@ -1,1 +1,7 @@
-{}
+{
+  "enabledCssSnippets": [
+    "hide_banner_properties",
+    "page_width"
+  ],
+  "showViewHeader": false
+}

@@ -1,0 +1,12 @@
+div.metadata-properties > div.metadata-property[data-property-key^="plugin_banner"] {
+  display: none;
+}
+
+.obsidian-banner-wrapper {
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.mod-header:has(+ .obsidian-banner-wrapper) {
+  margin-top: var(--banner-height);
+}
