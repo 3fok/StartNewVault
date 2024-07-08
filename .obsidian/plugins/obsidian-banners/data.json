@@ -13,5 +13,6 @@
   "useHeaderByDefault": true,
   "useTwemoji": true,
   "showPreviewInLocalModal": true,
+  "autoDownloadPastedBanners": false,
   "version": "1.3.3"
 }
