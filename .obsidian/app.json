@@ -7,5 +7,8 @@
   "showIndentGuide": true,
   "foldHeading": true,
   "spellcheck": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "livePreview": false
 }

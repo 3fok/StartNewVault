@@ -15,7 +15,7 @@
               "state": {
                 "file": "Untitled.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -140,13 +140,21 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "c5cd4ccb1ebb94ae",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 528.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,9 +167,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "402a34f0eb280d85",
+  "active": "30f6428044199ca9",
   "lastOpenFiles": [
+    "Daily notes",
     "Untitled.md",
+    "assets/Untitled/Untitled_image_1.png",
+    "assets/Untitled/tmp1720412888874_Untitled_image_1.png",
+    "assets/Untitled",
+    "assets",
     "README.md",
     "Pasted image 20240627103934.png",
     "Pasted image 20240627103515.png"
