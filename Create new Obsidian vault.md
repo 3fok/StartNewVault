@@ -74,7 +74,8 @@
 5. Change remote URL: Change the remote URL of the repository on your computer to point to the new repository.
 	`cd <cloned_repository_directory>`
 	`git remote set-url origin <new_repository_url>`
-6. Open folder as vault:  
+	`git push -u origin main`
+1. Open folder as vault:  
 	![](assets/Create%20new%20Obsidian%20vault/Create%20new%20Obsidian%20vault_image_14.png)
 	- Select the cloned folder.
 7. Setting Obsidian Git:
