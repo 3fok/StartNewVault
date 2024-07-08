@@ -17,7 +17,27 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "a8c4a7138e4cac8d"
+          }
+        ]
+      },
+      {
+        "id": "abee03f7f4cc800c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f87f69e9e7d555be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "a8c4a7138e4cac8d"
           }
         ]
       }
@@ -150,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -167,7 +187,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "30f6428044199ca9",
+  "active": "402a34f0eb280d85",
   "lastOpenFiles": [
     "Daily notes",
     "Untitled.md",

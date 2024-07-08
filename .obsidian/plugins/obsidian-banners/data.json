@@ -6,7 +6,7 @@
   "bannerDragModifier": "None",
   "enableDragInInternalEmbed": false,
   "enableDragInPopover": false,
-  "enableLockButton": true,
+  "enableLockButton": false,
   "headerDecor": "shadow",
   "headerHorizontalAlignment": "left",
   "headerVerticalAlignment": "edge",
