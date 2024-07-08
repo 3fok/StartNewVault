@@ -56,3 +56,29 @@
 		![](assets/Create%20new%20Obsidian%20vault/Create%20new%20Obsidian%20vault_image_11.png)
 5. Make edits to your notes
 6. Publish your notes run the command "`Obsidian Git: Create backup`" by opening the command palette (`CMD/Ctrl + P`)
+
+## Clone from existing GitHub Repository
+1. Download Git:
+	https://git-scm.com/downloads
+3. Create a personal access token from Github:  
+	https://github.com/settings/tokens/new  
+	![](assets/Create%20new%20Obsidian%20vault/Create%20new%20Obsidian%20vault_image_12.png)
+	| Copy and store the token in a safe place.
+1. Open **Git Bash** and clone repository:
+	 `cd Desktop`
+	 `git clone https://<PERSONAL_ACCESS_TOKEN>@github.com/<USERNAME>/<REPO>.git`
+	- For example:
+		`git clone https://ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX@github.com/3fok/StartNewVault.git`
+1.  Create a new repository:  
+	![](assets/Create%20new%20Obsidian%20vault/Create%20new%20Obsidian%20vault_image_13.png)
+1. Change remote URL: Change the remote URL of the repository on your computer to point to the new repository.
+	`cd <cloned_repository_directory>`
+	`git remote set-url origin <new_repository_url>`
+1. Open folder as vault:  
+	![](assets/Create%20new%20Obsidian%20vault/Create%20new%20Obsidian%20vault_image_14.png)
+	- Select the cloned folder.
+4. Setting Obsidian Git:
+	- Commit Author: (type user name and email of github account)  
+		![](assets/Create%20new%20Obsidian%20vault/Create%20new%20Obsidian%20vault_image_15.png)
+5. Make edits to your notes
+7. Publish your notes run the command "`Obsidian Git: Create backup`" by opening the command palette (`CMD/Ctrl + P`)

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom plugin.md",
+                "file": "Create new Obsidian vault.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom plugin.md",
+                "file": "Create new Obsidian vault.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom plugin.md",
+                "file": "Create new Obsidian vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom plugin.md",
+                "file": "Create new Obsidian vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom plugin.md"
+                "file": "Create new Obsidian vault.md"
               }
             }
           },
@@ -190,23 +190,23 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "435e7624f3d73054",
+  "active": "402a34f0eb280d85",
   "lastOpenFiles": [
+    "assets/Create new Obsidian vault/Create new Obsidian vault_image_13.png",
     "Create new Obsidian vault.md",
+    "assets/Create new Obsidian vault/Create new Obsidian vault_image_12.png",
+    "assets/Create new Obsidian vault/Create new Obsidian vault_image_10.png",
+    "assets/Create new Obsidian vault/Create new Obsidian vault_image_15.png",
+    "assets/Create new Obsidian vault/Create new Obsidian vault_image_14.png",
+    "assets/Create new Obsidian vault/Create new Obsidian vault_image_11.png",
     "Custom plugin.md",
     "assets/Notes/Notes_image_1.png",
     "assets/test123/test123_image_4.png",
     "Untitled.md",
     "assets/tesstt/test2/test4/test4_image_6.png",
     "assets/tesstt/test2/test4/test4_image_5.png",
-    "assets/tesstt/test2/test4/test4_image_4.png",
-    "assets/tesstt/test2/test4/test4_image_3.png",
-    "assets/tesstt/test2/test4/test4_image_1.png",
-    "assets/tesstt/test2/test4/test4_image_2.png",
-    "assets/tesstt/test2/Test5/Test5_image_1.png",
     "assets/tesstt/test2/test4",
     "assets/tesstt/test2/Test5",
-    "assets/test123/test123_image_3.png",
     "assets/tesstt/test2",
     "assets/test123",
     "assets/tesstt",
