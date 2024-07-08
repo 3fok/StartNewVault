@@ -1,8 +1,8 @@
 [
   "obsidian-git",
-  "obsidian-banners",
   "obsidian-full-calendar",
   "slash-commander",
   "obsidian-attachment-name-formatting",
-  "obsidian-custom-attachment-location"
+  "obsidian-custom-attachment-location",
+  "obsidian-banners"
 ]
