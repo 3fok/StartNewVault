@@ -62,8 +62,8 @@
 	https://git-scm.com/downloads
 2. Create a personal access token from Github:  
 	https://github.com/settings/tokens/new  
-	![](assets/Create%20new%20Obsidian%20vault/Create%20new%20Obsidian%20vault_image_12.png)
-	| Copy and store the token in a safe place.
+	![](assets/Create%20new%20Obsidian%20vault/Create%20new%20Obsidian%20vault_image_12.png)  
+	| Copy and store the token in a safe place.  
 3. Open **Git Bash** and clone repository:
 	 `cd Desktop`
 	 `git clone https://<PERSONAL_ACCESS_TOKEN>@github.com/<USERNAME>/<REPO>.git`
