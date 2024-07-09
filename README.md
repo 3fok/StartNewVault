@@ -23,4 +23,4 @@
 	- Commit Author: (type user name and email of github account)  
 		![](README_image_4.png)
 8. Make edits to your notes
-9. Publish your notes run the command "`Obsidian Git: Create backup`" by opening the command palette (`CMD/Ctrl + P`)  
+9. Publish your notes run the command "`Obsidian Git: Create backup`" by opening the command palette (`CMD/Ctrl + P`) 

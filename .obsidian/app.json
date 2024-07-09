@@ -1,8 +1,8 @@
 {
   "trashOption": "local",
-  "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
-  "attachmentFolderPath": "assets/README",
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "assets/Create new Obsidian vault",
   "showLineNumber": true,
   "showIndentGuide": true,
   "foldHeading": true,
@@ -11,5 +11,6 @@
   "alwaysUpdateLinks": false,
   "defaultViewMode": "preview",
   "livePreview": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "showUnsupportedFiles": true
 }
