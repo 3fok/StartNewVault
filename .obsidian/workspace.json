@@ -20,6 +20,18 @@
               }
             },
             "group": "a8c4a7138e4cac8d"
+          },
+          {
+            "id": "565c603d50e535d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       },
@@ -91,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5124969482422
+    "width": 606.5124969482422
   },
   "right": {
     "id": "e818dbdd0a4b65a8",
@@ -192,19 +204,20 @@
   },
   "active": "402a34f0eb280d85",
   "lastOpenFiles": [
-    "assets/Create new Obsidian vault/Create new Obsidian vault_image_13.png",
+    "README.md",
+    "Custom plugin.md",
     "Create new Obsidian vault.md",
-    "assets/Create new Obsidian vault/Create new Obsidian vault_image_12.png",
-    "assets/Create new Obsidian vault/Create new Obsidian vault_image_10.png",
+    "assets/Create new Obsidian vault/tmp1720514075060_Create new Obsidian vault_image_1.png",
     "assets/Create new Obsidian vault/Create new Obsidian vault_image_15.png",
     "assets/Create new Obsidian vault/Create new Obsidian vault_image_14.png",
+    "assets/Create new Obsidian vault/Create new Obsidian vault_image_13.png",
+    "assets/Create new Obsidian vault/Create new Obsidian vault_image_12.png",
     "assets/Create new Obsidian vault/Create new Obsidian vault_image_11.png",
-    "Custom plugin.md",
-    "assets/Notes/Notes_image_1.png",
-    "assets/test123/test123_image_4.png",
-    "Untitled.md",
-    "assets/tesstt/test2/test4/test4_image_6.png",
-    "assets/tesstt/test2/test4/test4_image_5.png",
+    "assets/Create new Obsidian vault/Create new Obsidian vault_image_10.png",
+    "assets/Create new Obsidian vault/Create new Obsidian vault_image_9.png",
+    "assets/Create new Obsidian vault/Create new Obsidian vault_image_8.png",
+    "assets/Create new Obsidian vault/Create new Obsidian vault_image_7.png",
+    "assets/README",
     "assets/tesstt/test2/test4",
     "assets/tesstt/test2/Test5",
     "assets/tesstt/test2",
@@ -213,8 +226,6 @@
     "assets/Create new Obsidian vault",
     "assets/Notes",
     "assets",
-    "assets/Untitled",
-    "Daily notes",
-    "README.md"
+    "assets/Untitled"
   ]
 }

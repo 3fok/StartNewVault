@@ -2,8 +2,8 @@
   "obsidian-git",
   "obsidian-full-calendar",
   "slash-commander",
-  "obsidian-custom-attachment-location",
   "obsidian-banners",
   "file-cleaner-redux",
-  "obsidian-attachment-name-formatting"
+  "obsidian-attachment-name-formatting",
+  "obsidian-custom-attachment-location"
 ]

@@ -10,5 +10,6 @@
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
-  "livePreview": false
+  "livePreview": false,
+  "promptDelete": false
 }
