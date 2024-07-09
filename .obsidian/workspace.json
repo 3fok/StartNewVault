@@ -9,29 +9,17 @@
         "dimension": 52.68583830710798,
         "children": [
           {
-            "id": "402a34f0eb280d85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Create new Obsidian vault.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "a8c4a7138e4cac8d"
-          },
-          {
             "id": "565c603d50e535d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "626091958e1a7a15"
           }
         ]
       },
@@ -46,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Create new Obsidian vault.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "a8c4a7138e4cac8d"
+            "group": "626091958e1a7a15"
           }
         ]
       }
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Create new Obsidian vault.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Create new Obsidian vault.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Create new Obsidian vault.md"
+                "file": "README.md"
               }
             }
           },
@@ -199,24 +187,27 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "file-cleaner-redux:Clean files": false
+      "file-cleaner-redux:Clean files": false,
+      "obsidian-attachment-name-formatting:Export Unused Attachments": false,
+      "obsidian-attachment-name-formatting:Export Attachments": false
     }
   },
-  "active": "402a34f0eb280d85",
+  "active": "565c603d50e535d1",
   "lastOpenFiles": [
+    "assets/README/README_image_4.png",
+    "assets/README/README_image_5.png",
+    "assets/README/tmp1720516445330_README_image_3.png",
     "README.md",
-    "Custom plugin.md",
+    "assets/README/README_image_3.png",
+    "assets/README/README_image_2.png",
+    "assets/README/README_image_1.png",
     "Create new Obsidian vault.md",
-    "assets/Create new Obsidian vault/tmp1720514075060_Create new Obsidian vault_image_1.png",
-    "assets/Create new Obsidian vault/Create new Obsidian vault_image_15.png",
-    "assets/Create new Obsidian vault/Create new Obsidian vault_image_14.png",
-    "assets/Create new Obsidian vault/Create new Obsidian vault_image_13.png",
-    "assets/Create new Obsidian vault/Create new Obsidian vault_image_12.png",
-    "assets/Create new Obsidian vault/Create new Obsidian vault_image_11.png",
-    "assets/Create new Obsidian vault/Create new Obsidian vault_image_10.png",
-    "assets/Create new Obsidian vault/Create new Obsidian vault_image_9.png",
-    "assets/Create new Obsidian vault/Create new Obsidian vault_image_8.png",
-    "assets/Create new Obsidian vault/Create new Obsidian vault_image_7.png",
+    "assets/Create new Obsidian vault/tmp1720515883258_Create new Obsidian vault_image_14.png",
+    "assets/Create new Obsidian vault/tmp1720515883646_Create new Obsidian vault_image_15.png",
+    "assets/Create new Obsidian vault/Create new Obsidian vault_image_16.png",
+    "assets/Create new Obsidian vault/tmp1720515881873_Create new Obsidian vault_image_7.png",
+    "assets/Create new Obsidian vault/tmp1720515882891_Create new Obsidian vault_image_12.png",
+    "Custom plugin.md",
     "assets/README",
     "assets/tesstt/test2/test4",
     "assets/tesstt/test2/Test5",

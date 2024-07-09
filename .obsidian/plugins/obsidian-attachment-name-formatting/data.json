@@ -48,7 +48,7 @@
     true
   ],
   "pdf": "pdf",
-  "oneInMany": "Default",
+  "oneInMany": "Copy",
   "enableAuto": true,
   "enableTime": false,
   "enablePathHash": false,
@@ -62,7 +62,7 @@
   ],
   "exportCurrentRiboon": false,
   "exportUnusedRiboon": false,
-  "exportCurrentDeletion": false,
+  "exportCurrentDeletion": true,
   "exportUnusedDeletion": false,
   "copyPath": false,
   "copyPathMode": "Relative",
