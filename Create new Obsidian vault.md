@@ -83,3 +83,6 @@
 		![](Create%20new%20Obsidian%20vault_image_15.png)
 8. Make edits to your notes
 9. Publish your notes run the command "`Obsidian Git: Create backup`" by opening the command palette (`CMD/Ctrl + P`)  
+
+
+

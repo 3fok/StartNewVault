@@ -3,7 +3,7 @@
   "obsidian-full-calendar",
   "slash-commander",
   "obsidian-banners",
-  "file-cleaner-redux",
   "obsidian-attachment-name-formatting",
-  "obsidian-custom-attachment-location"
+  "obsidian-custom-attachment-location",
+  "file-cleaner-redux"
 ]
