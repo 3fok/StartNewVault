@@ -3562,6 +3562,8 @@ var AttachmentNameFormatting = class extends import_obsidian4.Plugin {
             const extensionEnable = fileType + "Extensions";
             const attachmentExtension = item.link.split(".").pop();
             const attachmentExtensionInd = extensions[fileType].indexOf(attachmentExtension);
+            console.log("Check1: " + path.dirname(item.link));
+            console.log("Check2: " + this.app.vault.getConfig('attachmentFolderPath'));
             if (fileExtensions.contains(attachmentExtension) && this.settings[attachmentEnable] && this.settings[extensionEnable][attachmentExtensionInd]) {
               if (!attachmentList.hasOwnProperty(fileType)) {
                 attachmentList[fileType] = [];
