@@ -8,7 +8,7 @@
   "foldHeading": true,
   "spellcheck": false,
   "showInlineTitle": false,
-  "alwaysUpdateLinks": false,
+  "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "livePreview": false,
   "promptDelete": false,

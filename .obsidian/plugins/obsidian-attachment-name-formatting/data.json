@@ -48,7 +48,7 @@
     true
   ],
   "pdf": "pdf",
-  "oneInMany": "Copy",
+  "oneInMany": "Default",
   "enableAuto": true,
   "enableTime": false,
   "enablePathHash": false,
