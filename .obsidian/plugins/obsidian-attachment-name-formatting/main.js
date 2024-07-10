@@ -3400,13 +3400,12 @@ function handleCopyAttachment(editor, renameCopyAttachment) {
     newName = newName.replaceAll(" ", "%20");
   }
   data = data.replace(originName, newName);
-  CursorPlace = editor.getCursor();
+  let CursorPlace = editor.getCursor();
   editor.setValue(data);
   try {
     editor.setCursor(CursorPlace);
-  }
-  catch(e:any){
-    lineContent = editor.getLine(CursorPlace.line);
+  } catch (e: any) {
+    let lineContent = editor.getLine(CursorPlace.line);
     editor.setCursor({ line: CursorPlace.line, ch: lineContent.length });
   }
   
