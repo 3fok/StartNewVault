@@ -3674,10 +3674,11 @@ var AttachmentNameFormatting = class extends import_obsidian4.Plugin {
               if (this.renameCopyAttachment.hasOwnProperty(oldName)) {
                 handleCopyAttachment(editor, [
                   this.renameCopyAttachment[oldName],
-                  path2.basename(fullName)
+                  fullName
                 ]);
-                console.log(`aaaaaaa` + fullName;
-                console.log(`bbbbbbb` + path2.basename(fullName);
+                console.log(`aaaaaaa` + this.renameCopyAttachment[oldName]);
+                console.log(`aaaaaaa` + fullName);
+                console.log(`bbbbbbb` + path2.basename(fullName));
                 delete this.renameCopyAttachment[oldName];
               }
               num++;
