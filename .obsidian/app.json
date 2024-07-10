@@ -1,6 +1,6 @@
 {
   "trashOption": "local",
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "useMarkdownLinks": false,
   "attachmentFolderPath": "assets/Create new Obsidian vault",
   "showLineNumber": true,
