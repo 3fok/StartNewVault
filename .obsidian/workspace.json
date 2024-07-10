@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Create new Obsidian vault.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Create new Obsidian vault.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Create new Obsidian vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Create new Obsidian vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Create new Obsidian vault.md"
               }
             }
           },
@@ -192,6 +192,10 @@
   },
   "active": "565c603d50e535d1",
   "lastOpenFiles": [
+    "Custom plugin.md",
+    "README.md",
+    "assets/README/README_image_5.png",
+    "assets/README/README_image_22.png",
     "assets/README/README_image_21.png",
     "assets/README/README_image_20.png",
     "assets/README/README_image_19.png",
@@ -200,12 +204,7 @@
     "assets/README/README_image_16.png",
     "assets/README/README_image_15.png",
     "assets/README/README_image_14.png",
-    "assets/README/README_image_13.png",
-    "assets/README/README_image_12.png",
-    "assets/README/README_image_11.png",
-    "README.md",
     "Create new Obsidian vault.md",
-    "Custom plugin.md",
     "assets/README",
     "assets/tesstt/test2/test4",
     "assets/tesstt/test2/Test5",
