@@ -3579,7 +3579,6 @@ var AttachmentNameFormatting = class extends import_obsidian4.Plugin {
                   const copiedAttachmentPath = attachmentFile.path.replace(path2.extname(attachmentFile.path), "_copy" + path2.extname(attachmentFile.path));
                   yield this.app.vault.adapter.copy(attachmentFile.path, copiedAttachmentPath);
                   this.renameCopyAttachment[path2.basename(copiedAttachmentPath)] = item.link;
-                  console.log(`aaaaaaa` + this.renameCopyAttachment);
                   const copiedAttachmentFile = getAttachment(copiedAttachmentPath, this.app);
                   if (!attachmentList[fileType].contains(copiedAttachmentFile)) {
                     attachmentList[fileType].push(copiedAttachmentFile);
@@ -3677,6 +3676,8 @@ var AttachmentNameFormatting = class extends import_obsidian4.Plugin {
                   this.renameCopyAttachment[oldName],
                   path2.basename(fullName)
                 ]);
+                console.log(`aaaaaaa` + fullName;
+                console.log(`bbbbbbb` + path2.basename(fullName);
                 delete this.renameCopyAttachment[oldName];
               }
               num++;
