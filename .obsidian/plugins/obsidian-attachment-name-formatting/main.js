@@ -3572,7 +3572,7 @@ var AttachmentNameFormatting = class extends import_obsidian4.Plugin {
                   console.log(`NoChange option enable, skip renaming ${item.link}`);
                   yield this.handleLog(`NoChange option enable, skip renaming ${item.link}`);
                   continue;
-                } else if (this.settings.oneInMany === "Copy") {
+                } else if (this.settings.oneInMany === "Copy"  && path.dirname(item.link) != this.app.vault.getConfig('attachmentFolderPath')) {
                   console.log(`Copy option enable, will copy ${item.link}`);
                   yield this.handleLog(`Copy option enable, will copy ${item.link}`);
                   const copiedAttachmentPath = attachmentFile.path.replace(path2.extname(attachmentFile.path), "_copy" + path2.extname(attachmentFile.path));
