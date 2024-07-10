@@ -3401,6 +3401,7 @@ function handleCopyAttachment(editor, renameCopyAttachment) {
   }
   data = data.replace(originName, newName);
   editor.setValue(data);
+  console.log("checkkkkkk: " + newName);
 }
 
 // src/main.ts
