@@ -32,3 +32,8 @@
 
 
 ![[README_image_7.png]]
+
+
+![[assets/Create new Obsidian vault/Create new Obsidian vault_image_15.png]]
+
+README_image_8.png

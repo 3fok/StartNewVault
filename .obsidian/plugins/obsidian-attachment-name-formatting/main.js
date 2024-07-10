@@ -3400,7 +3400,8 @@ function handleCopyAttachment(editor, renameCopyAttachment) {
     newName = newName.replaceAll(" ", "%20");
   }
   data = data.replace(originName, newName);
-  editor.setValue(data);
+  //editor.setValue(data);
+  editor.replaceSelection(newName, originName);
   console.log("checkkkkkk: " + newName);
 }
 
