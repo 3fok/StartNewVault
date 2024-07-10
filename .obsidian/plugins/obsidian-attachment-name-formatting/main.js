@@ -3404,7 +3404,7 @@ function handleCopyAttachment(editor, renameCopyAttachment) {
   editor.setValue(data);
   try {
     editor.setCursor(CursorPlace);
-  } catch (e: any) {
+  } catch (e) {
     let lineContent = editor.getLine(CursorPlace.line);
     editor.setCursor({ line: CursorPlace.line, ch: lineContent.length });
   }
