@@ -44,4 +44,10 @@
 
 ![[assets/README/README_image_11.png]]
 
+![[assets/README/README_image_12.png]]
 
+![[assets/README/README_image_13.png]]
+
+
+![[assets/README/README_image_14.png]]
+![[assets/Create new Obsidian vault/Create new Obsidian vault_image_15.png]]
