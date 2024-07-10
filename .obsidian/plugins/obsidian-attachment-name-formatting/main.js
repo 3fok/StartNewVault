@@ -3402,7 +3402,7 @@ function handleCopyAttachment(editor, renameCopyAttachment) {
   data = data.replace(originName, newName);
   CursorPlace = editor.getCursor();
   editor.setValue(data);
-  editor.setCursor(CursorPlace);
+  editor.setCursor({ line: CursorPlace.line, ch: -1+1 });
   console.log("checkkkkkk: " + CursorPlace);
 }
 
