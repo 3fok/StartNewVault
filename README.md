@@ -25,6 +25,6 @@
 8. Make edits to your notes
 9. Publish your notes run the command "`Obsidian Git: Create backup`" by opening the command palette (`CMD/Ctrl + P`) 
 
-![](assets/README/README_image_4.png)
-![](README_image_5.png)
 
+
+![[README_image_5.png]]
