@@ -1,3 +1,4 @@
-div.metadata-properties > div.metadata-property[data-property-key^="plugin_banner"] {
+div.metadata-properties > div.metadata-property[data-property-key^="plugin_banner"],
+div.metadata-properties > div.metadata-property[data-property-key="banner_header"] {
   display: none;
 }
