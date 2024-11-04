@@ -17,7 +17,9 @@
                 "file": "Create new Obsidian vault.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Create new Obsidian vault"
             },
             "group": "626091958e1a7a15"
           }
@@ -37,7 +39,9 @@
                 "file": "Create new Obsidian vault.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Create new Obsidian vault"
             },
             "group": "626091958e1a7a15"
           }
@@ -61,7 +65,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -76,7 +82,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -84,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -115,7 +125,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Create new Obsidian vault"
             }
           },
           {
@@ -127,7 +139,9 @@
                 "file": "Create new Obsidian vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Create new Obsidian vault"
             }
           },
           {
@@ -138,7 +152,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -148,7 +164,9 @@
               "type": "outline",
               "state": {
                 "file": "Create new Obsidian vault.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Create new Obsidian vault"
             }
           },
           {
@@ -160,7 +178,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -168,7 +188,9 @@
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
-              "state": {}
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           }
         ]
